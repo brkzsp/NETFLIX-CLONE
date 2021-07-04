@@ -1,7 +1,41 @@
+:root {
+    --vermelho:#E50914;
+    --preta:#141414;
+}
+
+
 /* Reset */
 *{
-    padding: 0;
-    margin: 0;
-justify-content: none;
-align-items: center;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--preta);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header .container {
+    display: flex;                                 /* FLEXBOX (JOGA TUDO PARA LINHA) */
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;                /* DISTANCIA/ESPAÇO */
+}
+
+header .logo {
+    color: var(--vermelho);
+    font-family: 'Amatic SC', cursive;
+    font-size:52px;
+    letter-spacing: 0.1rem;
+}
+
+header nav a {
+    text-decoration:none;
+    color:#AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover {
+    color:#fff;
 }
