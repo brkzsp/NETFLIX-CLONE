@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./img/CAPA README.png" alt="Unform" />
+  <img src="./img/README CAPA.png" alt="Unform" />
 </p>
 
 ### 🛠 Tecnologias
