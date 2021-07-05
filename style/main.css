@@ -8,7 +8,7 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;
+    box-sizing: border-box;                         /* alterar a propiedade padrão do box-model, usada para calcular a proporção dela e emular o comportamento dos navegadores. */
 }
 
 body {
@@ -25,10 +25,8 @@ header .container {
 }
 
 header .logo {
-    color: var(--vermelho);
-    font-family: 'Amatic SC', cursive;
-    font-size:52px;
-    letter-spacing: 0.1rem;
+    width: 60px;
+    padding: 10px;
 }
 
 header nav a {
@@ -43,11 +41,13 @@ header nav a:hover {
 
 /* filme principal */
 .filme-principal {
-    font-size:16px; 
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/capa-house.jpg);
+    font-size:1rem; 
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(/img/capa-house.jpg) no-repeat;
     
     height: 400px;
     background-size: cover;
+    background-position-y: -190px;   /* Posição Y */
+    
 
     display: flex;
     flex-direction: column;
@@ -56,9 +56,53 @@ header nav a:hover {
 }
 
 .filme-principal .descricao {
+    margin-top: 10px;
     margin-bottom: 40px;
 }
 
 .titulo {
+   
     font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+/* Formatação dos Botões */
+.botao {
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    color: white;
+    
+    padding: 15px 30px;  /* Corte de mão - primeiro valor: cima e baixo*/  /* segundo: esquerda direita */
+    margin-right: 0.938rem;
+    font-size: 0.813rem;
+    text-decoration: none;
+
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+}
+
+.botao i {
+    margin-right: 0.3rem;
+}
+
+.container {
+    margin-left: 30px;
+}
+
+.filme-principal .container {
+    width: 100%;
+    max-width: 500px;
+}
+
+.box-filmes {
+    height: 100%;
+    width: 100%;
+    display: block;
+    
+}
+
+
