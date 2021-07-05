@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fnetflix-logo%2F&psig=AOvVaw0Gg6v8VtgAJBiYMZsO2uoK&ust=1625602467758000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDW5KDfzPECFQAAAAAdAAAAABAD" height="170" width="175" alt="Unform" />
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" height="170" width="175" alt="Unform" />
   </a>
 </p>
 
