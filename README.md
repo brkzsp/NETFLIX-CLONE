@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" height="150" width="155" alt="Unform" />
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" height="100" width="155" alt="Unform" />
   </a>
 </p>
 
