@@ -6,6 +6,7 @@
 
 <h1 align="center">CLONE DA NETFLIX</h1>
 
+
 <p align="center">
   <img src="./img/CAPA README.png" alt="Unform" />
 </p>
