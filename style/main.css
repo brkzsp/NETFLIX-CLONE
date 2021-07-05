@@ -8,12 +8,13 @@
 *{
     margin:0;
     padding:0;
-    box-sizing: border-box;                         /* alterar a propiedade padrão do box-model, usada para calcular a proporção dela e emular o comportamento dos navegadores. */
+    box-sizing: border-box;     
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                    /* alterar a propiedade padrão do box-model, usada para calcular a proporção dela e emular o comportamento dos navegadores. */
 }
 
 body {
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
 }
 
@@ -25,7 +26,7 @@ header .container {
 }
 
 header .logo {
-    width: 60px;
+    width: 80px;
     padding: 10px;
 }
 
@@ -46,7 +47,7 @@ header nav a:hover {
     
     height: 400px;
     background-size: cover;
-    background-position-y: -190px;   /* Posição Y */
+    
     
 
     display: flex;
@@ -102,7 +103,7 @@ header nav a:hover {
     height: 100%;
     width: 100%;
     display: block;
-    
+
 }
 
 
