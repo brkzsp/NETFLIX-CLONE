@@ -1,7 +1,7 @@
 ### Autor
 ---
 
-<a href="https://github.com/BernardoDeveloper">
+<a href="https://github.com/brkzsp">
   <img style="border-radius: 50%;" src="https://lh3.googleusercontent.com/-mMkSQCS-D04/YONhfQa5pJI/AAAAAAAAATI/6PIZRgLpgR0rocdILbu5aEHJLhVNCTnzACMICGAYYCw/s83-c/AVATAR.jpg" width="100px;" alt=""/>
 <br />
 <sub><b>Kauê Gois Braga</b></sub></a> <a href="https://github.com/brkzsp" title="brkzsp">🚀</a>
