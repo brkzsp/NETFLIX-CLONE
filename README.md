@@ -2,7 +2,7 @@
 ---
 
 <a href="https://github.com/brkzsp">
-  <img style="border-radius: 50%;" src="https://lh3.googleusercontent.com/-YjluDZdGx_8/YONmSfJYmdI/AAAAAAAAAT4/d2dSJnecZlsNyhhiZNeIWhakfgfiA_mGwCMICGAYYCw/s83-c/Design%2Bsem%2Bnome.png" width="100px;" alt=""/>
+  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79404668?s=400&u=0a1587934c60bc22e5215089a859a676bd0fea84&v=4" width="100px;" alt=""/>
 <br />
 <sub><b>Kauê Gois Braga</b></sub></a> <a href="https://github.com/brkzsp" title="brkzsp">🚀</a>
 
